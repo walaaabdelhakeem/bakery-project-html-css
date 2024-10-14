@@ -14,6 +14,27 @@ h1{
 width: 80%;
 margin: auto;
 }
+.uldesign{
+    position: fixed;
+    right: 0;
+    top: 40%;
+    list-style: none;
+    display: inline;
+
+}
+.uldesign li
+{
+    padding: 5px 3px;
+    background-color: #fff;
+
+}
+.uldesign a
+{
+    text-decoration: none;
+    color:gray ; 
+    font-size: 18px;
+  
+}
 .clear
 {
     clear: both;
